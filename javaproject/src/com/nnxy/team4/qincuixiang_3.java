@@ -6,7 +6,7 @@ public class qincuixiang_3 {
   
   private int gitId() {
 
-	  return id + 20;
+	  return id + 87;
 
   }
   public void setId(int id) {
